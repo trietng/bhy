@@ -3,3 +3,4 @@ images/**/*.jpeg
 images/**/*.png
 images/**/*.txt
 models/*
+!models/.gitkeep
